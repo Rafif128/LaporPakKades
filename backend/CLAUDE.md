@@ -1,6 +1,7 @@
 <laravel-boost-guidelines>
 # Laravel Application
 
+Testing
 This repository contains a Laravel application. Complete the following setup before working on the user's request.
 
 ## Prerequisites
